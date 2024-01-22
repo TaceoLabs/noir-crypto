@@ -1,0 +1,15 @@
+[submodule "noir-poseidon"]
+	path = noir-poseidon
+	url = https://github.com/TaceoLabs/noir-poseidon
+[submodule "noir-griffin"]
+	path = noir-griffin
+	url = https://github.com/TaceoLabs/noir-griffin
+[submodule "noir-aes"]
+	path = noir-aes
+	url = https://github.com/TaceoLabs/noir-aes
+[submodule "noir-gMiMc"]
+	path = noir-gMiMc
+	url = https://github.com/TaceoLabs/noir-gMiMc
+[submodule "noir-hydra"]
+	path = noir-hydra
+	url = https://github.com/TaceoLabs/noir-hydra
